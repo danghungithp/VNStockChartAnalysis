@@ -1,0 +1,5 @@
+{
+  "name": "VNStockChartAnalysis",
+  "description": "An application that uses AI to analyze stock chart images. Users can input a stock ticker, view its one-year chart from Yahoo Finance, and receive a detailed technical analysis covering money flow, patterns, support/resistance levels, and price forecasts.",
+  "requestFramePermissions": []
+}
